@@ -1,0 +1,22 @@
+:root{
+  --cor-fundo:  #b5eaf7;
+}
+
+
+body{
+  background-color: var(--cor-fundo);
+  text-align: center;
+}
+
+ul{
+  list-style-type: none;
+}
+
+section{
+  width: 500px;
+  background-color: #fff;
+  min-width: 400px;
+  padding: 10px;
+  margin: 0 auto;
+
+}
